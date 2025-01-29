@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-blue-gold {
+    background: linear-gradient(to bottom, #1e3a8a, #2563eb); /* Blue gradient */
+    background-size: cover;
+    position: relative;
+}
+
+.bg-blue-gold::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    /*background: url('./assets/Sparkles.jpg') repeat;*/
+    opacity: 0.3; /* Adjust for subtle sparkle */
+    pointer-events: none; /* Prevent interaction */
+}
