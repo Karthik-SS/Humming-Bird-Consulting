@@ -36,7 +36,7 @@ function Home() {
                         marginTop: '0', // Align header with the top of the image
                     }}
                 >
-                    The Power of Microservices
+                    Microservices: The Power of Agile "Wings"
                 </h2>
                 <p style={{ marginBottom: '16px', color: '#555' }}>
                     Microservices architecture has transformed the way we design scalable,
