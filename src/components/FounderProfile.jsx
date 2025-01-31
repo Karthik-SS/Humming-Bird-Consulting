@@ -37,7 +37,7 @@ function FounderProfile() {
           </p>
 
          <p className="mt-4 text-gray-700">
-           💡 Want to hear about one of the greatest queen sacrifices in chess history? Let’s chat! 😊♟️
+           💡 Want to hear about one of the greatest queen sacrifices in chess history? Let’s chat! ♙♚♛♝♞♜😊💙💐🙏⚡🌻♟♔♕♗♘♖
          </p>
         </div>
     );
