@@ -15,7 +15,7 @@ function Contact() {
                 flexDirection: "row",
                 alignItems: "flex-start",
                 justifyContent: "space-between",
-                gap: "240px",
+                gap: "135px",
                 maxWidth: "900px",
                 margin: "0 auto",
                 backgroundColor: "#f3f3f3",
@@ -23,7 +23,7 @@ function Contact() {
                 borderRadius: "10px"
             }}>
                 {/* Contact Form Section */}
-                <div style={{ flex: "1",  marginLeft: "-140px", minWidth: "350px", backgroundColor: "#ffffff", padding: "20px", borderRadius: "10px", boxShadow: "0 4px 6px rgba(0,0,0,0.1)" }}>
+                <div style={{ flex: "1",  marginLeft: "-10px", minWidth: "350px", backgroundColor: "#ffffff", padding: "20px", borderRadius: "10px", boxShadow: "0 4px 6px rgba(0,0,0,0.1)" }}>
                     <h2 style={{ fontSize: "20px", fontWeight: "bold", textAlign: "left", width: "100%", display: "flex", justifyContent: "left", marginBottom: "10px" }}>
                         Contact Form
                     </h2>
