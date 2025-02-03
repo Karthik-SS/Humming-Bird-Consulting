@@ -29,7 +29,7 @@ function FounderProfile() {
           </p>
 
            <p className="mt-4 text-gray-700">
-             Beyond consulting, I’m deeply committed to education and mentorship, having tutored in Math, Chess, Computer Science, and Philosophy to foster analytical thinking and lifelong learning. My roots as a teacher and mentor allow me to simplify complex concepts, making them accessible for technical and non-technical audiences alike.
+             Beyond consulting, I’m deeply committed to education and mentorship, having tutored in Math, Chess, Computer Science, and Philosophy to foster analytical & critical thinking and to encourage & participate in lifelong learning. My roots as a teacher and mentor allow me to simplify complex concepts, making them accessible for technical and non-technical audiences alike.
           </p>
 
           <p className="mt-4 text-gray-700">
