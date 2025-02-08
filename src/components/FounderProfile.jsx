@@ -14,7 +14,7 @@ function FounderProfile() {
         }}
                 className="w-40 h-40 rounded-full object-cover border-4 border-blue-500 shadow-md"
             />
-            <h2 className="text-xl font-bold mt-4">Karthik</h2>
+            <h2 className="text-xl font-bold mt-4">Karthik Sundareshan</h2>
             <p className="text-gray-600 italic">About Me</p>
             <p className="mt-2 text-gray-700">
               Helping Startups Soar To Success With Clarity On Fundamental Concepts, Expert Insights, Strategies, And With Humming Bird's : Wing Speed Execution!
