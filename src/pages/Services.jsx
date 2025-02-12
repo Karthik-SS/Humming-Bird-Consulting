@@ -9,6 +9,7 @@ function Services() {
                 <li> Software Architecture & Design Consulting</li>
                 <li> Operational Excellence & Optimization</li>
                 <li> Business Strategy Consulting</li>
+				<li> Teaching Philosophy, Mathematics, & Computer Science</li>
             </ul>
         </div>
     );
