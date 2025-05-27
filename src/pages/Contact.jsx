@@ -5,7 +5,7 @@ import FounderProfile from '../components/FounderProfile';
 function Contact() {
     return (
         <div style={{ padding: "40px 0" }}>
-            <div style={{ padding: "40px 0" }}>
+            <div
                 <h1 style={{ fontSize: "24px", fontWeight: "bold", textAlign: "center", marginBottom: "10px" }}>
                     Contact Us
                 </h1>
