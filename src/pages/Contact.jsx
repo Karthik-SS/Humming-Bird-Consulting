@@ -4,8 +4,9 @@ import FounderProfile from '../components/FounderProfile';
 
 function Contact() {
     return (
-        <div style={{ padding: "40px 0" }}>
-            <div
+        <div style={{ paddingTop: "10px", paddingBottom: "30px" }}>
+            {/* Header & Email */}
+            <div>
                 <h1 style={{ fontSize: "24px", fontWeight: "bold", textAlign: "center", marginBottom: "10px" }}>
                     Contact Us
                 </h1>
@@ -28,16 +29,47 @@ function Contact() {
                 borderRadius: "10px"
             }}>
                 {/* Contact Form Section */}
-                <div style={{ flex: "1",  marginLeft: "-10px", minWidth: "350px", backgroundColor: "#ffffff", padding: "20px", borderRadius: "10px", boxShadow: "0 4px 6px rgba(0,0,0,0.1)" }}>
-                    <h2 style={{ fontSize: "20px", fontWeight: "bold", textAlign: "left", width: "100%", display: "flex", justifyContent: "left", marginBottom: "10px" }}>
+                <div style={{
+                    flex: "1",
+                    marginLeft: "-10px",
+                    minWidth: "350px",
+                    backgroundColor: "#ffffff",
+                    padding: "20px",
+                    borderRadius: "10px",
+                    boxShadow: "0 4px 6px rgba(0,0,0,0.1)"
+                }}>
+                    <h2 style={{
+                        fontSize: "20px",
+                        fontWeight: "bold",
+                        textAlign: "left",
+                        width: "100%",
+                        display: "flex",
+                        justifyContent: "left",
+                        marginBottom: "10px"
+                    }}>
                         Contact Form
                     </h2>
                     <ContactForm />
                 </div>
 
                 {/* Founder Profile Section */}
-                <div style={{ flex: "1", minWidth: "350px", backgroundColor: "#ffffff", padding: "20px", borderRadius: "10px", boxShadow: "0 4px 6px rgba(0,0,0,0.1)" }}>
-                    <h2 style={{ fontSize: "20px", fontWeight: "bold", textAlign: "left", width: "100%", display: "flex", justifyContent: "left", marginBottom: "10px" }}>
+                <div style={{
+                    flex: "1",
+                    minWidth: "350px",
+                    backgroundColor: "#ffffff",
+                    padding: "20px",
+                    borderRadius: "10px",
+                    boxShadow: "0 4px 6px rgba(0,0,0,0.1)"
+                }}>
+                    <h2 style={{
+                        fontSize: "20px",
+                        fontWeight: "bold",
+                        textAlign: "left",
+                        width: "100%",
+                        display: "flex",
+                        justifyContent: "left",
+                        marginBottom: "10px"
+                    }}>
                         Founder Profile
                     </h2>
                     <FounderProfile />
