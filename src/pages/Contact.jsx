@@ -5,9 +5,14 @@ import FounderProfile from '../components/FounderProfile';
 function Contact() {
     return (
         <div style={{ padding: "40px 0" }}>
-            <h1 style={{ fontSize: "24px", fontWeight: "bold", textAlign: "center", marginBottom: "20px" }}>
-                Contact Us
-            </h1>
+            <div style={{ padding: "40px 0" }}>
+                <h1 style={{ fontSize: "24px", fontWeight: "bold", textAlign: "center", marginBottom: "10px" }}>
+                    Contact Us
+                </h1>
+                <p style={{ textAlign: "center", fontSize: "16px", color: "#333" }}>
+                    📧 Email us at <a href="mailto:hummingbirdsconsultings@gmail.com">hello@HummingBird'sConsultingGroup</a>
+                </p>
+            </div>
 
             {/* FLEX CONTAINER FOR CONTACT FORM & FOUNDER PROFILE */}
             <div style={{
